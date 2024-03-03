@@ -34,12 +34,9 @@ Due to the large size of the dataset, it's recommended to download any leaf data
 
 ## Contributors
 
-- [Your Name]
+- [Tejashwi Jaina](https://github.com/Tejashwi1)
 
 ## License
 
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [License Name] - see the [LICENSE.md](./LICENSE) file for details.
 
-## Acknowledgments
-
-- Mention any references, inspirations, or tools used in the project.
